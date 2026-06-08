@@ -73,6 +73,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Robinson.R (212224060218)
+**Name:** Jwahar A (212224080020)
 **Course:** Introduction to Cloud Computing  
 
